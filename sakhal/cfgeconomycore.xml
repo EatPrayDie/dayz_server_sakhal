@@ -44,5 +44,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="epd_vanilla_types_override.xml" type="types" />
 		<file name="tofu_virtual_storage_types.xml" type="types"/>
 		<file name="mmg_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="mmg_storage_types.xml" type="types"/>
 	</ce>
 </economycore>
