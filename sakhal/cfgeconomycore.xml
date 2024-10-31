@@ -37,9 +37,12 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true" />
 		<default name="save_types_startup" value="true" />
 	</defaults>
-	<ce folder="/dayz_server_sakhal-main/sakhal">
+	<ce folder="dayz_server_sakhal-main/sakhal">
 		<file name="mmg_types_alpine.xml" type="types" />
 		<file name="mmg_types_ADMINGEAR.xml" type="types" />
+		<file name="tofu_virtual_storage_types.xml" type="types" />
+		<file name="epd_vanilla_types_override.xml" type="types" />
+		<file name="tofu_virtual_storage_types.xml" type="types"/>
 		<file name="mmg_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 </economycore>
